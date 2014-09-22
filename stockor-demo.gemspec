@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
     spec.version       = Skr::Demo::VERSION
     spec.authors       = ["Nathan Stitt"]
     spec.email         = ["nathan@stitt.org"]
-    spec.summary       = %q{Stockor Demo replaces the stock login form with a pre-filled roles}
-    spec.description   = %q{Stockor Demo replaces the stock login form with a pre-filled roles}
+    spec.summary       = %q{Stockor Demo replaces stock functionality}
+    spec.description   = %q{Extension to Stockor that modifies user experience so it can be easily demonstrated}
     spec.homepage      = ""
     spec.license       = "GPL-3.0"
 

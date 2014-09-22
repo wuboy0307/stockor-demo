@@ -1,6 +1,12 @@
 # Stockor::Demo
 
-TODO: Write a gem description
+Extension to Stockor that modifies user experience so it can be easily demonstrated
+
+To do so, it currently:
+
+ * Seeds the DB with multiple users with different roles
+ * Replaces the login form with a selection so the desired role can be chosen
+ * Adds routes to Stockor for the login form to log in/out
 
 ## Installation
 

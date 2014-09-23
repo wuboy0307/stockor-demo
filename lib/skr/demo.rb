@@ -3,6 +3,7 @@ module Skr
     end
 end
 
-require "skr/demo/extension"
-require "skr/demo/endpoint"
-require "skr/demo/db_seed"
+require_relative "demo/extension"
+require_relative "demo/endpoint"
+require_relative "demo/db_seed"
+require_relative "demo/patch_user_info"
